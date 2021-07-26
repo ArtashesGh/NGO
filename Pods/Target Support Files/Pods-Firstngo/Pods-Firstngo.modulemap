@@ -1,0 +1,6 @@
+framework module Pods_Firstngo {
+  umbrella header "Pods-Firstngo-umbrella.h"
+
+  export *
+  module * { export * }
+}
